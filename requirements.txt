@@ -23,7 +23,7 @@ dash-renderer==0.14.3
 decorator==4.3.0
 discord==0.0.2
 discord.py==0.16.12
-Django==2.1.1
+
 docker-py==1.10.6
 docker-pycreds==0.3.0
 EasyProcess==0.2.3
@@ -89,7 +89,7 @@ python-dateutil==2.7.3
 pyttsx==1.1
 pyttsx3==2.7
 pytz==2018.5
-pywin32==223
+
 PyYAML==3.13
 queuelib==1.5.0
 requests==2.19.1
